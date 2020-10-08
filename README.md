@@ -20,3 +20,4 @@ Para compilar e executar:
 `$ make`
 
 `$ ./dataParallel.nvidia `
+
